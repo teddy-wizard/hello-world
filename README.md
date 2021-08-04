@@ -1,7 +1,7 @@
 # Docker Testing for Jiang
 
-This is a "Hello world" Docker image for testing.
-
+This is a "Hello world" app for Docker testing.
+Here is using Python and Flask.
 
 
 ## Usage
