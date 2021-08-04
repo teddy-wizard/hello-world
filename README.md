@@ -1,7 +1,7 @@
 # Docker Testing for Jiang
 
-This is a "Hello world" Docker image for testing.
-
+This is a "Hello world" app for Docker testing.
+Here is using Python and Flask.
 
 
 ## Usage
@@ -19,5 +19,6 @@ $ ./venv/bin/python3 server.py
 
 
 ### Run it in Docker
+If you installed docker already, you can run the following commands and see a result.
 
 $ docker run -p 8000:8000 teddy-wizard/hello-world
