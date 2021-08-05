@@ -10,7 +10,7 @@ Here is using Python and Flask.
 ### Run it in Docker
 If you installed docker already, you can run the following commands and see a result.
 
-$ docker run -p 8000:8000 teddy-wizard/hello-world
+$ docker run -p 8000:8000 teddywizard/hello-world
 
 
 
